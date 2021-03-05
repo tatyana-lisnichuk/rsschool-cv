@@ -2,7 +2,7 @@
 
 ## Junior Front-end Developer
 
-![CV Photo](cv-photo.png)
+![CV Photo](photo.png)
 
 +38 097 895 71 01 / Telegram
 
