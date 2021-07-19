@@ -68,3 +68,9 @@ function helloWorld(){
   console.log(str);
 }
 ```
+
+[lisnichuk.tatyana@gmail.com]: lisnichuk.tatyana@gmail.com
+[instagram]: https://www.instagram.com/tatiana_lisnichuk/
+[linkedin]: https://www.linkedin.com/in/%D1%82%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0-%D0%BB%D0%B8%D1%81%D0%BD%D0%B8%D1%87%D1%83%D0%BA-b1308a132/
+[github]: https://github.com/tatyana-lisnichuk?tab=repositories
+[landing]: https://www.figma.com/file/I51wSSDaXSYw6RAe8TLrNL/Coffee?node-id=0%3A1
