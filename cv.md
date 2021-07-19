@@ -3,6 +3,7 @@
 ## Junior Front-end Developer
 
 ![CV Photo](photo.png)
+
 +38 097 895 71 01 / Telegram
 <lisnichuk.tatyana@gmail.com>
 References: [Instagram], [Linkedin], [Github]
